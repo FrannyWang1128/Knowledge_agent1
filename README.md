@@ -2,5 +2,5 @@
 
 run 
 ```
-streamlit run streamlit_ui.py
+streamlit run streamlit_app.py
 ```
